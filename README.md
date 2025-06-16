@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Recipe Rewriter
 
 A web app that rewrites cooking recipes using AI prompts. Ideal for transforming traditional recipes into healthier, faster, or plant-based versions.
@@ -41,4 +42,3 @@ npm run dev
 📄 License
 
 MIT
-
