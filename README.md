@@ -1,47 +1,25 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6b59ea4 (Add project description to README)
-# 🧠 AI Recipe Rewriter
+# AI Recipe Rewriter
 
-A web app that rewrites cooking recipes using AI prompts. Ideal for transforming traditional recipes into healthier, faster, or plant-based versions.
+A web-based AI-powered app that helps users rewrite recipes for different dietary needs, cuisines, and preferences.
 
-## 🚀 Features
+## 🚀 Features (Planned)
+- Rewrite recipes based on diet (e.g., vegan, keto, gluten-free)
+- Change cuisine styles (e.g., Italian → Thai)
+- Adjust servings, convert units, and simplify steps
+- Chat-style interface powered by GenAI
 
-- ✏️ Rewrite recipes with AI
-- 🧠 Choose rewrite style: Healthy / Vegetarian / Quick
-- 🔍 Search and browse base recipes
-- 📤 Copy or download rewritten recipes
+## 🛠 Tech Stack
+- Next.js + React
+- TypeScript
+- Tailwind CSS
+- OpenAI API (planned)
+- Deployed via Vercel
 
-## 🛠️ Tech Stack
+## 📸 Demo (coming soon)
+> Add screenshots or GIF when available
 
-- **Framework**: Next.js (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **AI**: (TBD) OpenAI / Replicate API / Mock API
-- **Deployment**: Vercel
+## 🧠 Inspiration
+This project is created as part of **MLH Global Hack Week: GenAI**, to explore the intersection of AI and daily life through recipe transformation.
 
-## 📸 Screenshots
-
-_Coming soon!_
-
-## 📁 Project Structure
-
-/app
-├─ page.tsx          # Home page
-├─ layout.tsx
-├─ recipes/
-└─ components/
-└─ RecipeCard.tsx
-/public
-/styles
-
-## 📦 Setup
-
-```bash
-npm install
-npm run dev
-
-📄 License
-
-MIT
+## 📌 Status
+🚧 Work in progress | Started: June 13, 2025
