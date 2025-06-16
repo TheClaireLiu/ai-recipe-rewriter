@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6b59ea4 (Add project description to README)
 # 🧠 AI Recipe Rewriter
 
 A web app that rewrites cooking recipes using AI prompts. Ideal for transforming traditional recipes into healthier, faster, or plant-based versions.
